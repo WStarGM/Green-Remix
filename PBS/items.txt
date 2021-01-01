@@ -843,3 +843,4 @@
 815,FORCESTONE,Force Stone,Force Stone,2,1000,"A stone that looks very weird and might evolve a pokemon.",1,0,0,
 816,RANDOMSTONE,Random Stone,Random Stone,2,1000,"A stone that looks very weird and might evolve a pokemon into another species.",1,0,0,
 817,RIDEPAGER,Ride Pager,Ride Pager,8,0,"A Pager used to call on pokemon for help.",0,0,6,
+818,EXPALL,Exp All,Exp All,8,0,"A exp share for all pokemon.",0,0,6,
