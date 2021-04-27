@@ -916,3 +916,7 @@
 886,SOLGANIUMZ2,Solganium-Z,,1,0,"This is a crystallized form of Z-Power. It upgrades a Sunsteel Strike by Solgaleo to a Z-Move.",0,0,13,
 887,ULTRANECROZIUMZ,Ultra-Necrozium-Z,,8,0,"It converts Z-Power into crystals that upgrades a Photon Geyser by Ultra-Necrozma to an exclusive Z-Move.",5,0,14,
 888,ULTRANECROZIUMZ2,Ultra-Necrozium-Z,,1,0,"This is a crystallized form of Z-Power. It upgrades a Photon Geyser by Ultra-Necrozma to a Z-Move.",0,0,13,
+#------------------------------------------------------------------------------------------------------------
+889,PALPAD,Pal Pad,Pal Pads,8,0,"A Device that allows for Online Communication with Friends.",0,0,6,
+890,GTS,GTS,GTSs,8,0,"A Device that allows for Online Communication with Friends.",0,0,6,
+891,CABLE,Cable,Cables,8,0,"A Device that allows for Online Communication with Friends.",0,0,6,
