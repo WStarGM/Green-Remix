@@ -1,4 +1,5 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
 0,PkMnTRAINER_Male,PkMn TRAINER,100,,,,Male,255,
 1,PkMnTRAINER_Female,PkMn TRAINER,100,,,,Female,255,
 2,LASS,LASS,24,210 - Vs. Kanto Trainer.mp3,TrainerVictory.mp3,203 - Encounter! Classic Lass,Female,255,
@@ -196,3 +197,4 @@
 548,CHAMPION_6,Champion,200,PWT Champions,PWT Victory,PWT N,Male,,
 549,CHAMPION_7,Champion,200,PWT Champions,PWT Victory,PWT N,Male,,
 618,MASTERM,Master,200,VS Gym Leader,Victory! Gym Leader,,Male,,
+619,LEADER_41,Leader,200,VS Gym Leader,Victory! Gym Leader,,Male,,

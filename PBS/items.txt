@@ -920,3 +920,4 @@
 889,PALPAD,Pal Pad,Pal Pads,8,0,"A Device that allows for Online Communication with Friends.",0,0,6,
 890,GTS,GTS,GTSs,8,0,"A Device that allows for Online Communication with Friends.",0,0,6,
 891,CABLE,Cable,Cables,8,0,"A Device that allows for Online Communication with Friends.",0,0,6,
+892,DARKBALL,Darkball,Darkballs,8,0,"A abnormal ball that has a stange effect on all other balls.",0,0,6,
